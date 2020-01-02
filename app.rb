@@ -16,4 +16,3 @@ end
     @c = params["c"]
     erb :team
 end
-end
